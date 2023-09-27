@@ -2,3 +2,4 @@
 Proyectos del ciclo electivo 2023-2
 
 Evaluación de Laboratorio T1 curso Lenguaje de Programación II - Cibertec 2023
+Alumno: Gonzalo Gabriel Bautista Aponte
